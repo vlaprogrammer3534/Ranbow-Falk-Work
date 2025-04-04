@@ -1,0 +1,10 @@
+body
+{
+   background-color: black;
+}
+#hello
+{
+  color: white;
+  font-family: monospace;
+  text-align: center;
+}
